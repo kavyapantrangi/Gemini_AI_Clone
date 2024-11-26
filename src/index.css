@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Outfit;
+}
+/* #root{
+  display: flex;
+  /* flex-direction: column; */
+  /* min-height: 100vh;
+  animation: fadeIn 1.5s;
+} 
+*/ 
+.app-layout {
+  display: flex; /* Makes Sidebar and Main sit next to each other */
+  min-height: 100vh; /* Ensures the layout spans the full height of the viewport */
+  width: 100%; /* Ensures it takes up the full width of the screen */
+}
+
+/* .app-layout > div {
+  flex: 1; /* Ensures both Sidebar and Main adjust properly in a flexible layout */
+/* } */ 
