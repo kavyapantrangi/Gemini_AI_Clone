@@ -11,5 +11,9 @@
 ✨ Simulated Typing Effect: Enhances user experience with a natural typing effect during responses.<br>
 ✨ Google Gemini Integration: Utilizes the capabilities of the Google Gemini model for accurate and informative responses.<br>
 
-![Watch the video](https://github.com/kavyapantrangi/Gemini_AI_Clone/blob/master/gem.mp4)
+Here is the demo
+
+https://github.com/user-attachments/assets/3285c062-9ebc-4ef1-a47a-281ebb59f9e8
+
+
 
